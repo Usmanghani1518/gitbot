@@ -28,8 +28,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email 'zeshanshakil0@gmail.com'
-          git config --local user.name 'zeshantech'
+          git config --local user.email 'mrusmanghani8@gmail.com'
+          git config --local user.name 'Usman Ghani'
           git add -A
           
           arr[0]="feat: 💤 Just woke up to commit"
